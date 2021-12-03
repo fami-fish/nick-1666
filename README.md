@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nick</h1>
 <h3 align="center">I do random projects sometimes</h3>
 
-- I’m currently working on [Duckbot](https://github.com/nick-1666/DuckBot)
+- I’m currently working on nothing lol
 
 
 <h3 align="left">Languages and Tools:</h3>
