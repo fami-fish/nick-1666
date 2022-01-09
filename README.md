@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nick</h1>
 <h3 align="center">I do random projects sometimes</h3>
 
-- I’m currently working on nothing lol
+- I’m currently working on compliance's discord bot! Initiated a much needed [rewrite](https://github.com/Compliance-Resource-Pack/Discord-Bot/tree/typescript) in TS
 
 
 <h3 align="left">Languages and Tools:</h3>
