@@ -8,6 +8,7 @@
 - I’m looking to collaborate on **the bevy game jam #2**
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">Discord: `Nick.#1666`</p>
 <p align="left">
 </p>
 
